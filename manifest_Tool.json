@@ -2,7 +2,7 @@
     "PrimaryDetails": {
         "AssetTitle": "Test Tool type",
         "AssetURL": "http://testjan24.com",
-        "AssetType": "tool",
+        "AssetType": "ool",
         "Description": "test",
         "Products": [
             "PowerShell"
