@@ -2,7 +2,7 @@
     "PrimaryDetails": {
         "AssetTitle": "test code artifact type",
         "AssetURL": "https://localhost:3000/",
-        "AssetType": "Code Artifact",
+        "AssetType": "code artifact",
         "Description": "test",
         "Products": ["Intune"],
         "Scenarios": ["Azure"],
