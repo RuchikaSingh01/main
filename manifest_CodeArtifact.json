@@ -3,7 +3,7 @@
         "AssetTitle": "test code artifact type",
         "AssetURL": "https://localhost:3000/",
         "AssetType": "code artifact",
-        "Description": "test",
+        "Description": "test1S",
         "Products": ["Intune"],
         "Scenarios": ["Azure"],
         "SolutionAreas": ["Security"],
