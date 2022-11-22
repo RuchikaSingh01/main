@@ -1,19 +1,19 @@
 {
 	"PrimaryDetails": {
-	  "AssetTitle": "",
-	  "AssetURL": "",
-	  "AssetType": "IP Package",
-	  "Description": "",
-	  "Products": [],
-	  "Scenarios": [],
-	  "Tags": [],
-	  "AssetVersion": "",
-	  "AssetContributors": ["v-test"],
-	  "AssetOwner": ["v-test"],
-	  "RegisteredBy": "v-test",
-	  "RegisteredDate": "",
-	  "DeliveryProductID": "",
-	  "DomainServiceline": ""
+		"AssetTitle": "",
+		"AssetURL": "",
+		"AssetType": "IP Component",
+		"Description": "",
+		"Products": [],
+		"Scenarios": [],
+		"Tags": [],
+		"AssetVersion": "",
+		"AssetContributors": [ "v-test" ],
+		"AssetOwner": [ "v-test" ],
+		"RegisteredBy": "v-test",
+		"RegisteredDate": "",
+		"DeliveryProductID": "",
+		"DomainServiceline": ""
 	},
 
 	"IPDetails": {
@@ -77,4 +77,4 @@
 			}
 		]
 	}
-  }
+}

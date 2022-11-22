@@ -1,27 +1,27 @@
 {
     "PrimaryDetails": {
-        "AssetTitle": "test code artifact type",
-        "AssetURL": "https://localhost:3000/",
+        "AssetTitle": "",
+        "AssetURL": "",
         "AssetType": "Docs as Code",
-        "Description": "test",
-        "Products": ["Intune"],
-        "Scenarios": ["Azure"],
-        "SolutionAreas": ["Security"],
-        "Tags": ["test"],
-        "AssetVersion": "v1",
-        "AssetContributors": ["v-skonar"],
+        "Description": "",
+        "Products": [],
+        "Scenarios": [],
+        "SolutionAreas": [],
+        "Tags": [],
+        "AssetVersion": "",
+        "AssetContributors": [],
         "AssetOwner": [
-            "v-skonar"
+            "v-test"
         ],
         "RegisteredBy": "",
         "RegisteredDate": "",
         "docsAsCodeDetails": {
-            "docFxPath": "/",
-            "branchName": "main",
-            "commitId": "test",
-            "name": "test",
-            "sourceType": "ADO",
-            "url": "https://dev.azure.com/servicescode-test/TCS-Test-Project/_git/DocsAsCode"
+            "docFxPath": "",
+            "branchName": "",
+            "commitId": "",
+            "name": "",
+            "sourceType": "",
+            "url": ""
         }
     }
 }
