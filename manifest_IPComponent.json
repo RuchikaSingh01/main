@@ -1,1 +1,47 @@
-{"PrimaryDetails":{"AssetTitle":"Chrysalis IP Component QA - Asset Title 093421AM","AssetType":"IP Component","Description":"Chrysalis IP Component QA Asset Desc093421AM","Products":["Active Directory"],"Scenarios":[],"SolutionAreas":["Infrastructure"],"Tags":["QATESTING"],"AssetVersion":"Chrysalis IP Component QA  V1 0093421AM","AssetContributors":["v-ydhakad@microsoft.com"],"AssetOwner":["v-naggummadi@microsoft.com","v-ruchikana@microsoft.com"],"RegisteredBy":"v-ruchikana@microsoft.com","RegisteredDate":"2023-05-25T04:04:43.1814419Z","IsPrivate":false,"PrivateUsers":[],"LinkedAssets":[],"EffortsCouldSaveUpto":10,"AssetURLAccessSteps":"","Industries":["Automotive"],"AssetURLScope":null,"DeliveryProductID":"Delivery prod ID is v1.0093421AM","DomainServiceline":""},"IPDetails":{"DisplayVersion":"Chrysalis IP Component QA  V1 0093421AM","WorkItems":[],"Repository":[],"AssociatedComponents":[],"Pipelines":[],"docsAsCode":[],"iterationAreaTeams":[{"name":"","sourceType":"ADO","url":"https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)"}],"Queries":[],"Dashboards":[],"VariableGroups":[],"PreProcessingSteps":"Pre Processing Steps for IP details093421AM","PostProcessingSteps":"","processTemplateEnabler":[],"automationEnabler":[]}}
+{
+    "PrimaryDetails": {
+        "AssetTitle": "Chrysalis IP Component QA - Asset Title 093421AM",
+        "AssetType": "IP Component",
+        "Description": "Chrysalis IP Component QA Asset Desc093421AM",
+        "Products": [ "Active Directory" ],
+        "Scenarios": [],
+        "SolutionAreas": [ "Infrastructure" ],
+        "Tags": [ "QATESTING" ],
+        "AssetVersion": "Chrysalis IP Component QA  V1 0093421AM",
+        "AssetContributors": [ "v-ruchikana@microsoft.com" ],
+        "AssetOwner": [ "v-naggummadi@microsoft.com" ],
+        "RegisteredBy": "v-ruchikana@microsoft.com",
+        "RegisteredDate": "2023-05-25T04:04:43.1814419Z",
+        "IsPrivate": false,
+        "PrivateUsers": [],
+        "LinkedAssets": [],
+        "EffortsCouldSaveUpto": 10,
+        "AssetURLAccessSteps": "",
+        "Industries": [ "Automotive" ],
+        "AssetURLScope": null,
+        "DeliveryProductID": "Delivery prod ID is v1.0093421AM",
+        "DomainServiceline": ""
+    },
+    "IPDetails": {
+        "DisplayVersion": "Chrysalis IP Component QA  V1 0093421AM",
+        "WorkItems": [],
+        "Repository": [],
+        "AssociatedComponents": [],
+        "Pipelines": [],
+        "docsAsCode": [],
+        "iterationAreaTeams": [
+            {
+                "name": "",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)"
+            }
+        ],
+        "Queries": [],
+        "Dashboards": [],
+        "VariableGroups": [],
+        "PreProcessingSteps": "Pre Processing Steps for IP details093421AM",
+        "PostProcessingSteps": "",
+        "processTemplateEnabler": [],
+        "automationEnabler": []
+    }
+}
